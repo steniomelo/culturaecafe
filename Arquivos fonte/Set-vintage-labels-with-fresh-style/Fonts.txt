@@ -1,0 +1,43 @@
+﻿Fonts used in this design;
+
+Font: Bree Serif,
+Author: TypeTogether,
+Url: http://www.fontsquirrel.com/fonts/bree-serif;
+
+Font: Langdon,
+Author: xlntelecom,
+Url: http://www.fontsquirrel.com/fonts/langdon;
+
+
+
+Font: Yellowtail,
+Author: Astigmatic,
+Url: http://www.fontsquirrel.com/fonts/yellowtail;
+
+
+
+Font: Alfa Slab,
+Author: JM Solé,
+Url: http://www.fontsquirrel.com/fonts/alfa-slab;
+
+
+Font: Great Vibes,
+Author: TypeSETit,
+Url: http://www.fontsquirrel.com/fonts/great-vibes;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

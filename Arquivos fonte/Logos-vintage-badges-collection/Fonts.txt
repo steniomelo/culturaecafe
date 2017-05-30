@@ -1,0 +1,14 @@
+Fonts used in this design;
+
+Font: Montserrat, 
+Author: Julieta Ulanovsky, 
+Url: http://www.fontsquirrel.com/fonts/montserrat; 
+
+Font: Oswald, 
+Author: Vernon Adams, 
+Url: http://www.fontsquirrel.com/fonts/oswald; 
+
+Font: Milkshake, 
+Author: Laura Worthington, 
+Url: https://www.fontsquirrel.com/fonts/milkshake; 
+
